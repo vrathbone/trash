@@ -1,0 +1,13 @@
+---
+title: "Discussion 1 Rathbone"
+author: "Vanessa Rathbone"
+date: "1/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+
