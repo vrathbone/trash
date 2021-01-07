@@ -12,6 +12,6 @@ library(tidyverse)
 
 ```{r}
 ggplot(data = starwars, aes(x = mass, y = height))+
-  geom_point()
+  geom_point(color = "blue", size = 1)
 ```
 
